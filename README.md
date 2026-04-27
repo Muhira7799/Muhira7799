@@ -1,13 +1,13 @@
-# Hi there, I'm Muhira Mohammed 👋
+# Hi there, I'm Muhira Mohammed 
 
-I am a Software Engineering student at UNILAK with a passion for building clean and efficient code. I enjoy working with TypeScript, Database Management, and IoT.
+I am a Software Engineering student at UNILAK. I have a strong passion for **Object-Oriented Programming (OOP)** and I enjoy building structured logic systems.
 
-## 🛠️ Tech Stack:
-- **Languages:** TypeScript, SQL, C++
-- **Interests:** Database Administration (Oracle, SSMS), Networking, and IoT Prototyping.
-- **Tools:** GitHub, Cisco Packet Tracer, Arduino/ESP32.
+##  Tech Stack & Interests:
+- **Core Passion:** Object-Oriented Programming (OOP) - I love designing systems based on objects and classes.
+- **IT & Visual Tools:** Experienced in IT fundamentals and Visual programming environments.
+- **Languages:** TypeScript and exploring more tools that support strong OOP principles.
 
-## 📈 Learning Journey:
-Currently focusing on mastering Object-Oriented Programming (OOP) and building scalable logic systems.
+##  Projects:
+I focus on turning logical requirements into clean, readable code. I'm currently working on building more TypeScript projects to demonstrate my understanding of software architecture.
 
-📫 How to reach me: [    https://www.linkedin.com/in/muhira-ibrahim-397910401?utm_source=share_via&utm_content=profile&utm_medium=member_ios ]
+Let's connect: [  https://www.linkedin.com/in/muhira-ibrahim-397910401?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
